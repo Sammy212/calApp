@@ -30,3 +30,4 @@ This calculator PWA is built using the following technologies:
 	CSS3
 	JavaScript
 	Service Workers
+	Json
