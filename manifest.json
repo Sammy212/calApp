@@ -1,0 +1,22 @@
+{
+    "name": "Sam's Calculator",
+    "Short_name": "Calculator",
+    "icon": [
+        {
+            "src": "./assets/favicon.png",
+            "size": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/favicon-small.png",
+            "size": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
